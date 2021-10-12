@@ -1,0 +1,122 @@
+.logo {
+    margin-top: 20px;
+}
+.logo .title {
+    font-size: 25px;
+    padding-left: 20px;
+}
+.tab_list {
+    margin-top: 20px;
+}
+.all {
+    font-size: 15px;
+    font-weight: 700;
+    border-bottom: 1px solid #c81623;
+    padding: 5px;
+}
+.shopping .title {
+    margin-top: 5px;
+    height: 50px;
+    background-color: #f3f3f3;
+    line-height: 50px;
+}
+.shopping ul li {
+    float: left;
+}
+.shopping ul li .box {
+    width: 55px;
+}
+.check,
+.checkall {
+    margin: 0 5px 0 10px;
+}
+.store {
+    width: 300px;
+}
+.store span {
+    margin-left: 75px;
+}
+.price {
+    margin-left: 260px;
+    width: 100px;
+}
+.count {
+    width: 90px;
+    text-align: center;
+    margin-right: 80px;
+}
+.pc_fee {
+    width: 150px;
+}
+.shopping .detail .message{
+    height: 200px;
+    margin-top: 15px;
+    border: 1px solid #ccc;
+    border-top: 2px solid #aaa;
+    padding-top: 15px;
+}
+.store img {
+    float: left;
+    border: 1px solid #aaa;
+}
+.store p {
+    margin-left: 92px;
+}
+.bd {
+    border: 1px solid #ccc;
+    background-color: #fff;
+}
+.count a {
+    float: left;
+    width: 19px;
+    text-align: center;
+}
+.count input {
+    border: none;
+    border-right: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+    float: left;
+    width: 50px;
+    text-align: center;
+}
+.current {
+    background-color: #fff4e8;
+}
+.sum_list {
+    margin-top: 15px;
+    height: 50px;
+    border: 1px solid #ccc;
+    line-height: 50px;
+}
+.sum_list .delete_check{
+    margin-left: 30px;
+}
+.sum_list .clear {
+    font-weight: 700;
+    margin-left: 20px;
+}
+.sum_list .choose {
+    margin-left: 635px;
+}
+.sum_list .choose i {
+    font-weight: 700;
+    margin: 0 5px;
+}
+.sum_list .sum {
+    font-size: 14px;
+    margin: 0 10px;
+}
+.sum_list .box {
+    float: right;
+}
+.sum_list .pay {
+    height: 48px;
+    width: 94px;
+    background-color: #e54346;
+    margin-left: 20px;
+    line-height: 50px;
+    text-align: center;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 700;
+}
